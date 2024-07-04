@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.card{
+    margin:10px;
+    width: 310px;
+}
+.nav{
+    background-color: rgb(33,37,41);
+}
+.jumbotron{
+    padding: 10px;
+    background-color: rgb(234,236,239);
+    height: 350px;
+}
